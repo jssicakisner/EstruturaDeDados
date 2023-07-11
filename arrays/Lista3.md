@@ -1,0 +1,1 @@
+By using `ArrayList`, I eliminated the need for explicit casting and avoid the type safety warning. The `ArrayList` class provides dynamic resizing and simplifies the code while ensuring type safety.
