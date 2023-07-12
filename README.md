@@ -1,8 +1,8 @@
-### DATA STRUCTURES
+# DATA STRUCTURES
 
 This repository is meant to study and practice the implementation of different data structures with Java.
 
-## Types of Data Structures in Java
+### Types of Data Structures in Java
 
 * Array
 * Linked List
@@ -14,7 +14,7 @@ This repository is meant to study and practice the implementation of different d
 * Hashing 
 * Graph
 
-** Here is the pictorial representation of types of java data structures **
+**Here is the pictorial representation of types of java data structures**
 
 ![Data Structure](dataStructure.png)
 
