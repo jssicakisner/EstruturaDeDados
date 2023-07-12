@@ -1,6 +1,6 @@
-package threads.exercicios;
+package queues.exercicios;
 
-import threads.Fila;
+import queues.Fila;
 
 public class Exercicio01 {
     public static void main(String[] args) {

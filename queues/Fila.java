@@ -1,4 +1,4 @@
-package threads;
+package queues;
 
 import arrays.EstruturaEstatica;
 

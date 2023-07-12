@@ -1,4 +1,4 @@
-package list;
+package linked_list;
 
 public class ListaEncadeadaTeste {
     public static void main(String[] args) {

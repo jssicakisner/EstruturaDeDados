@@ -1,6 +1,6 @@
-package threads.exercicios;
+package queues.exercicios;
 
-import threads.FilaComPrioridade;
+import queues.FilaComPrioridade;
 
 public class PSAtendimento implements Runnable {
     private FilaComPrioridade<Pessoa> fila;

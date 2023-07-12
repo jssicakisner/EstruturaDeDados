@@ -1,6 +1,6 @@
-package threads.exercicios;
+package queues.exercicios;
 
-import threads.FilaComPrioridade;
+import queues.FilaComPrioridade;
 
 public class Exercicio03 {
     public static final int VERDE = 2;

@@ -1,4 +1,4 @@
-package list;
+package linked_list;
 
 public class No<T> {
     private T elemento;

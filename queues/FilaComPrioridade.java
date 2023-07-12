@@ -1,4 +1,4 @@
-package threads;
+package queues;
 
 public class FilaComPrioridade<T> extends Fila<T> {
     public void enfileira(T elemento){

@@ -1,4 +1,4 @@
-package list;
+package linked_list;
 
 public class ListaEncadeada<T> {
     private No<T> inicio;

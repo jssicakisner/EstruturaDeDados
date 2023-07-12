@@ -1,4 +1,4 @@
-package threads.exercicios;
+package queues.exercicios;
 
 public class Pessoa implements Comparable<Pessoa> {
     private String nome;

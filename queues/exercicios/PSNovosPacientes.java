@@ -1,8 +1,8 @@
-package threads.exercicios;
+package queues.exercicios;
 
 import java.util.Random;
 
-import threads.FilaComPrioridade;
+import queues.FilaComPrioridade;
 
 public class PSNovosPacientes implements Runnable {
     private FilaComPrioridade<Pessoa> fila;
